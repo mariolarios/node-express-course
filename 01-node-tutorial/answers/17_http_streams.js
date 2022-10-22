@@ -15,3 +15,6 @@ http
     });
   })
   .listen(5000);
+
+
+  //The data was sent to the browser in chunks rather than as a whole
