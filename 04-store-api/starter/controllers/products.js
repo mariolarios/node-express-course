@@ -72,6 +72,4 @@ module.exports = {
   getAllProductsStatic,
 };
 
-git add -A
-git commit -m "answers for lesson 7"
-git push origin week7
+
